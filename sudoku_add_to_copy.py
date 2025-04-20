@@ -26,7 +26,6 @@ def copy_and_add(sudoku: list, row_no: int, column_no: int, number: int):
     row[column_no] = number
     return new_sudoku
 
-
 if __name__ == "__main__":
     sudoku  = [
     [2, 0, 0, 0, 0, 0, 0, 0, 0],
