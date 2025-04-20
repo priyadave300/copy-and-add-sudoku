@@ -1,4 +1,3 @@
-# Write your solution here
 ##here in print_sudoku()we run first main for loop to transverse across each row and then another for loop 
 ##to transverse across each element of each row from range(0,9). Then we have if condn where we check whether 
 ##i !=0 and also whether i% 3==0 for row and if yes then print(). then for j !=0 and j%3 ==0 then print " " 
